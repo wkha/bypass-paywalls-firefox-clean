@@ -11,6 +11,13 @@ Fix McClatchy Group (identify sites)
 Fix MIT Sloan Management Review (timing)
 Fix Nation Media Group (videos)
 Fix Spiegel.de (charts)
+Fix wsj.com/pro/private-equity (wsj is working fine but pro section articles are not opening)
+Fix wsj.com/pro/venture-capital (wsj is working fine but pro section articles are not opening)
+Fix wsj.com/pro/bankruptcy (wsj is working fine but pro section articles are not opening)
+Fix wsj.com/pro/central-banking (wsj is working fine but pro section articles not working)
+Fix wsj.com/pro/cybersecurity (wsj is working fine but pro section articles not working)
+Fix https://www.wsj.com/pro/sustainable-business (wsj is working fine but pro section articles not working)
+
 Update external fetch (Chrome-synch)
 
 * v3.8.9.0 (2024-10-20)
